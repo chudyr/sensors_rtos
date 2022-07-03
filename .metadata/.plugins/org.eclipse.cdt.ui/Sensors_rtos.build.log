@@ -1,0 +1,10 @@
+13:45:59 **** Incremental Build of configuration Debug for project Sensors_rtos ****
+make -j8 all 
+arm-none-eabi-size   Sensors_rtos.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15100	     28	   6156	  21284	   5324	Sensors_rtos.elf
+Finished building: default.size.stdout
+ 
+
+13:45:59 Build Finished. 0 errors, 0 warnings. (took 301ms)
+
